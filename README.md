@@ -14,7 +14,7 @@ I'm a first-generation student majoring in Artificial Intelligence at UT San Ant
 
 🔭 &nbsp;I'm currently working on **a RAG application**  
 🌱 &nbsp;I'm currently learning **MCP to connect AI models to external tools**  
-⚡ &nbsp;Fun fact: **I need background music to code**
+⚡ &nbsp;Fun fact: **I NEED background music while coding**
 
 ### 🛠️ Tech Stack
 
