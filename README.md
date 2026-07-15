@@ -42,11 +42,5 @@ I'm a first-generation student majoring in Artificial Intelligence at UT San Ant
   <a href="mailto:afmaldonado6@gmaill.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/angelmaldonado06">angelmaldonado06</a></i></p>
