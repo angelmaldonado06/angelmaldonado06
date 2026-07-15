@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/angelmaldonado06">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Angel" alt="Hi! I&#39;m Angel" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=506&text=Hi!%20I'm%20Angel" alt="Hi! I&#39;m Angel" />
   </a>
 </p>
 
