@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=always%20caffeinated%3C3" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=360&height=44&lines=always%20caffeinated%3C3" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -14,7 +14,7 @@ I'm a first-generation student majoring in Artificial Intelligence at UT San Ant
 
 🔭 &nbsp;I'm currently working on **a RAG application**  
 🌱 &nbsp;I'm currently learning **MCP to connect AI models to external tools**  
-⚡ &nbsp;Fun fact: **I NEED background music while coding**
+⚡ &nbsp;Fun fact: **I need background music to code**
 
 ### 🛠️ Tech Stack
 
